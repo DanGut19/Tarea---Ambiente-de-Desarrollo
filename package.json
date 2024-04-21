@@ -1,0 +1,22 @@
+{
+  "name": "tarea---ambiente-de-desarrollo",
+  "version": "1.0.0",
+  "description": "Tarea de Programacion web ll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "keywords": [
+    "Tarea",
+    "1"
+  ],
+  "author": "Dan Gut",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "numeros_a_palabras": "^1.0.8"
+  }
+}
